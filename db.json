@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1678476998468,
+      "name": "Camiseta",
+      "price": 39.99
+    },
+    {
+      "id": 1678477527014,
+      "name": "Calça Jeans",
+      "price": 90
+    },
+    {
+      "id": 1678477541793,
+      "name": "Calça Sarja",
+      "price": 90
+    },
+    {
+      "id": 1678477929058,
+      "name": "Camisa",
+      "price": 120
+    },
+    {
+      "id": 1678477959111,
+      "name": "Boné Aba Reta",
+      "price": 29.9
+    },
+    {
+      "id": 1678478020516,
+      "name": "Meia",
+      "price": 9.99
+    }
+  ]
+}
